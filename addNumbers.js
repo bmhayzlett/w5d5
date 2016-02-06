@@ -34,6 +34,7 @@ var completionCallback = function(sum) {
 
 addNumbers(0,3,completionCallback);
 
+
 // function addTwoNumbers(callback) {
 //   reader.question("Enter #1", function (numString1) {
 //     reader.question("Enter #2", function (numString2) {
